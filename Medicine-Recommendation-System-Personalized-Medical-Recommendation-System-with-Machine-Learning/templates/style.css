@@ -1,0 +1,13 @@
+.logo{
+    height:50px;
+    width:50px;
+    color: black;
+    margin-top: 0;
+    margin-left: 2px; 
+}
+.myimg{
+    height:50px; 
+    width:50px; 
+    border:2px solid black;
+    border-radius: 2px;
+}
